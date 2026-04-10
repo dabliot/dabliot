@@ -20,7 +20,9 @@
 
 </div>
 
-<div align="center">
+##
+
+<!-- <div align="center">
   <samp>
     <b>
       Contact me:
@@ -31,7 +33,7 @@
 
   [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/users/503394798259142656) 
 
-</div>
+</div> -->
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=dabliot&style=flat-square&color=123845" /></p> 
