@@ -15,6 +15,12 @@
 </div>
 
 <div align="center">
+
+  ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+</div>
+
+<div align="center">
   <samp>
     <b>
       Contact me:
