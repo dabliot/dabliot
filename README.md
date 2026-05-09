@@ -2,10 +2,6 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/00SEs0K.png" />
-</div>
-
-<div align="center">
   
   <b>`ダ ブ リ オ ッ ト`</b>
   <samp>
