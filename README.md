@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=header"/>
 <br>
 
 <div align="center">
@@ -25,12 +25,12 @@
 
 </div>
 
----
-<div align="center">
+
+<!-- <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dabliot&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/dabliot)
 
-</div>
+</div> -->
 
 <!-- <div align="center">
   <samp>
@@ -49,4 +49,4 @@
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=dabliot&style=flat-square&color=123845" /></p> 
 </div> -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=footer"/>
